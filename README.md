@@ -1,7 +1,7 @@
 # 『 UPLOAD 』
 
 •  https://cdn.staticaly.com
-<br /><br />•  (Optional) https://gitcdn.link or https://gitcdn.link
+<br /><br />•  (Optional) https://gitcdn.link or https://gitcdn.xyz
 <br /><br /><br />
 
 #### JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
