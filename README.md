@@ -1,14 +1,14 @@
 # 『 UPLOAD 』
 
-https://cdn.staticaly.com
-<br /><br />(Optional) https://gitcdn.link or https://gitcdn.link
+•  https://cdn.staticaly.com
+<br /><br />•  (Optional) https://gitcdn.link or https://gitcdn.link
 <br /><br /><br />
 
 #### JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
-<b>https://cdn.staticaly.com/gh</b>/  ––  <b>.js</b>
+○  https://<b>cdn.staticaly.com/gh</b>/  ––  <b>.js</b>
 <br />
 #### Text files (.txt) and other NO needs CDN.
-<b>https://raw.githubusercontent.com</b>/  ––  <b>.txt</b>
+○  https://<b>raw.githubusercontent.com</b>/  ––  <b>.txt</b>
 <br /><br /><br /><br /><br />
 
 
