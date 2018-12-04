@@ -8,8 +8,8 @@ https://cdn.staticaly.com
 
 ### ADS BLOCK – CUSTOMIZED
 (Staticaly) https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
-(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
-(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
+<br />(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
+<br />(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />
 ### Load the production file of jQuery from GitHub
 https://cdn.staticaly.com/gh/jquery/jquery-dist/master/dist/jquery.min.js
