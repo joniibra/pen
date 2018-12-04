@@ -16,34 +16,34 @@ https://raw.githubusercontent.com/  ––  <b>.txt</b>
 
 ### Ads Block – Customized ® Joni Ibra
 (Staticaly) https://<b>cdn.staticaly.com/gh/</b><code>joniibra/webdev/adblock/ublock.customfilter.txt</code>
-<br />(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
-<br />(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
+<br />(Github Origins) https://<b>raw.githubusercontent.com/</b><code>joniibra/webdev/adblock/ublock.customfilter.txt</code>
+<br />(RawGit Deprecated) https://<b>cdn.rawgit.com/</b><code>joniibra/webdev/adblock/ublock.customfilter.txt</code>
 <br />
 ### Load the production file of jQuery from GitHub
-https://cdn.staticaly.com/gh/jquery/jquery-dist/master/dist/jquery.min.js
+https://<b>cdn.staticaly.com/gh/</b><code>jquery/jquery-dist/master/dist/jquery.min.js</code>
 <br />
 ### Bootstrap CSS
-https://cdn.staticaly.com/gh/twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css
+https://<b>cdn.staticaly.com/gh/</b><code>twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css</code>
 <br />
 ### And Font Awesome CSS
-https://cdn.staticaly.com/gh/FortAwesome/Font-Awesome/master/web-fonts-with-css/css/fontawesome-all.min.css
+https://<b>cdn.staticaly.com/gh/</b><code>FortAwesome/Font-Awesome/master/web-fonts-with-css/css/fontawesome-all.min.css</code>
 <br /><br /><br />
 
 
 ## HOW TO USE
 
 ### GitHub
-https://cdn.staticaly.com/gh/:user/:repo/:tag/:file
+<code>https://cdn.staticaly.com/gh/:user/:repo/:tag/:file</code>
 <br />
 ### GitLab
-https://cdn.staticaly.com/gl/:user/:repo/:tag/:file
+<code>https://cdn.staticaly.com/gl/:user/:repo/:tag/:file</code>
 <br />
 ### Bitbucket
-https://cdn.staticaly.com/bb/:user/:repo/:tag/:file
+<code>https://cdn.staticaly.com/bb/:user/:repo/:tag/:file</code>
 <br />
 ### Imgpx
-https://cdn.staticaly.com/img/:image_url
+<code>https://cdn.staticaly.com/img/:image_url</code>
 <br />
 ### Favicons
-https://cdn.staticaly.com/favicons/:favicon_url
+<code>https://cdn.staticaly.com/favicons/:favicon_url</code>
 <br /><br /><br />
