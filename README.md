@@ -1,15 +1,15 @@
 # 『 UPLOAD 』
 
 https://cdn.staticaly.com
-<br />(Optional) https://gitcdn.link or https://gitcdn.link
-<br /><br />
+<br /><br />(Optional) https://gitcdn.link or https://gitcdn.link
+<br /><br /><br />
 
 #### JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
-https://cdn.staticaly.com/gh/  ––  <b>.js</b>
+<code>https://cdn.staticaly.com/gh/</code>  ––  <b>.js</b>
 <br />
 #### Text files (.txt) and other NO needs CDN.
-https://raw.githubusercontent.com/  ––  <b>.txt</b>
-<br /><br /><br />
+<code>https://raw.githubusercontent.com/</code>  ––  <b>.txt</b>
+<br /><br /><br /><br /><br />
 
 
 ## EXAMPLE
@@ -27,7 +27,7 @@ https://<b>cdn.staticaly.com/gh/</b><code>twbs/bootstrap/v4-dev/dist/css/bootstr
 <br />
 ### And Font Awesome CSS
 https://<b>cdn.staticaly.com/gh/</b><code>FortAwesome/Font-Awesome/master/web-fonts-with-css/css/fontawesome-all.min.css</code>
-<br /><br /><br />
+<br /><br /><br /><br /><br />
 
 
 ## HOW TO USE
