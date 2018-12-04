@@ -6,7 +6,7 @@ https://cdn.staticaly.com
 
 ## EXAMPLE
 
-### ADS BLOCK – CUSTOMIZED
+### Ads Block – Customized ® Joni Ibra
 (Staticaly) https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
