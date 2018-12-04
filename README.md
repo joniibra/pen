@@ -1,38 +1,39 @@
-#UPLOAD –
+# 『 UPLOAD 』
 
 https://cdn.staticaly.com
+<br /><br /><br />
 
 
+## EXAMPLE –
 
-#EXAMPLE –
-
-ADS BLOCK – CUSTOMIZED
+### ADS BLOCK – CUSTOMIZED
 https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
-
-Load the production file of jQuery from GitHub
+<br />
+### Load the production file of jQuery from GitHub
 https://cdn.staticaly.com/gh/jquery/jquery-dist/master/dist/jquery.min.js
-
-And Bootstrap CSS
+<br />
+### Bootstrap CSS
 https://cdn.staticaly.com/gh/twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css
-
-Font Awesome CSS
+<br />
+### And Font Awesome CSS
 https://cdn.staticaly.com/gh/FortAwesome/Font-Awesome/master/web-fonts-with-css/css/fontawesome-all.min.css
+<br /><br /><br />
 
 
+# HOW TO USE –
 
-#HOW TO USE –
-
-GitHub
+### GitHub
 https://cdn.staticaly.com/gh/:user/:repo/:tag/:file
-
-GitLab
+<br />
+### GitLab
 https://cdn.staticaly.com/gl/:user/:repo/:tag/:file
-
-Bitbucket
+<br />
+### Bitbucket
 https://cdn.staticaly.com/bb/:user/:repo/:tag/:file
-
-Imgpx
+<br />
+### Imgpx
 https://cdn.staticaly.com/img/:image_url
-
-Favicons
+<br />
+### Favicons
 https://cdn.staticaly.com/favicons/:favicon_url
+<br /><br /><br />
