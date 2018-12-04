@@ -5,17 +5,17 @@ https://cdn.staticaly.com
 <br /><br />
 
 #### JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
-https://cdn.staticaly.com/gh/  –  <b>.js</b>
+https://cdn.staticaly.com/gh/  ––  <b>.js</b>
 <br />
 #### Text files (.txt) and other NO needs CDN.
-https://raw.githubusercontent.com/  –  <b>.txt</b>
+https://raw.githubusercontent.com/  ––  <b>.txt</b>
 <br /><br /><br />
 
 
 ## EXAMPLE
 
 ### Ads Block – Customized ® Joni Ibra
-(Staticaly) https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
+(Staticaly) https://<b>cdn.staticaly.com/gh/</b>joniibra/webdev/adblock/ublock.customfilter.txt
 <br />(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />
