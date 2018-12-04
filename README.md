@@ -5,10 +5,10 @@ https://cdn.staticaly.com
 <br /><br /><br />
 
 #### JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
-<b>https://cdn.staticaly.com/gh/  ––  .js</b>
+<b>https://cdn.staticaly.com/gh</b>/  ––  <b>.js</b>
 <br />
 #### Text files (.txt) and other NO needs CDN.
-<b>https://raw.githubusercontent.com/  ––  .txt</b>
+<b>https://raw.githubusercontent.com</b>/  ––  <b>.txt</b>
 <br /><br /><br /><br /><br />
 
 
@@ -33,17 +33,17 @@ https://<b>cdn.staticaly.com/gh/</b><code>FortAwesome/Font-Awesome/master/web-fo
 ## HOW TO USE
 
 ### GitHub
-<code>https://cdn.staticaly.com/gh/:user/:repo/:tag/:file</code>
+https://<b>cdn.staticaly.com/gh/</b><code>:user/:repo/:tag/:file</code>
 <br />
 ### GitLab
-<code>https://cdn.staticaly.com/gl/:user/:repo/:tag/:file</code>
+https://<b>cdn.staticaly.com/gl/</b><code>:user/:repo/:tag/:file</code>
 <br />
 ### Bitbucket
-<code>https://cdn.staticaly.com/bb/:user/:repo/:tag/:file</code>
+https://<b>cdn.staticaly.com/bb/</b><code>:user/:repo/:tag/:file</code>
 <br />
 ### Imgpx
-<code>https://cdn.staticaly.com/img/:image_url</code>
+https://<b>cdn.staticaly.com/img/</b><code>:image_url</code>
 <br />
 ### Favicons
-<code>https://cdn.staticaly.com/favicons/:favicon_url</code>
+https://<b>cdn.staticaly.com/favicons/</b><code>:favicon_url</code>
 <br /><br /><br />
