@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/  ––  <b>.txt</b>
 ## EXAMPLE
 
 ### Ads Block – Customized ® Joni Ibra
-(Staticaly) https://<b>cdn.staticaly.com/gh/</b>joniibra/webdev/adblock/ublock.customfilter.txt
+(Staticaly) https://<b>cdn.staticaly.com/gh/</b><code>joniibra/webdev/adblock/ublock.customfilter.txt</code>
 <br />(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />
