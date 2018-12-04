@@ -5,10 +5,10 @@ https://cdn.staticaly.com
 <br /><br /><br />
 
 #### JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
-<code>https://cdn.staticaly.com/gh/</code>  ––  <b>.js</b>
+<b>https://cdn.staticaly.com/gh/  ––  .js</b>
 <br />
 #### Text files (.txt) and other NO needs CDN.
-<code>https://raw.githubusercontent.com/</code>  ––  <b>.txt</b>
+<b>https://raw.githubusercontent.com/  ––  .txt</b>
 <br /><br /><br /><br /><br />
 
 
