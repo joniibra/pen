@@ -4,7 +4,7 @@ https://cdn.staticaly.com
 <br /><br /><br />
 
 
-## EXAMPLE –
+## EXAMPLE
 
 ### ADS BLOCK – CUSTOMIZED
 (Staticaly) https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
@@ -22,7 +22,7 @@ https://cdn.staticaly.com/gh/FortAwesome/Font-Awesome/master/web-fonts-with-css/
 <br /><br /><br />
 
 
-## HOW TO USE –
+## HOW TO USE
 
 ### GitHub
 https://cdn.staticaly.com/gh/:user/:repo/:tag/:file
