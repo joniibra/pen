@@ -7,7 +7,9 @@ https://cdn.staticaly.com
 ## EXAMPLE –
 
 ### ADS BLOCK – CUSTOMIZED
-https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
+(Staticaly) https://cdn.staticaly.com/gh/joniibra/webdev/adblock/ublock.customfilter.txt
+(Github Origins) https://raw.githubusercontent.com/joniibra/webdev/adblock/ublock.customfilter.txt
+(RawGit Deprecated) https://cdn.rawgit.com/joniibra/webdev/adblock/ublock.customfilter.txt
 <br />
 ### Load the production file of jQuery from GitHub
 https://cdn.staticaly.com/gh/jquery/jquery-dist/master/dist/jquery.min.js
@@ -20,7 +22,7 @@ https://cdn.staticaly.com/gh/FortAwesome/Font-Awesome/master/web-fonts-with-css/
 <br /><br /><br />
 
 
-# HOW TO USE –
+## HOW TO USE –
 
 ### GitHub
 https://cdn.staticaly.com/gh/:user/:repo/:tag/:file
