@@ -4,9 +4,11 @@
 <br /><br />•  (Optional) https://gitcdn.link or https://gitcdn.xyz
 <br /><br /><br />
 
-JavaScript and other needs CDN (staticaly / rawgit / gitcdn / etc).
+JavaScript, CSS and other needs CDN (staticaly / rawgit / gitcdn / etc).
 <br />
 ○  https://<b>cdn.staticaly.com/gh</b>/  ––  <b>.js</b>
+<br />
+○  http://<b>githack.com</b>/  ––  <b>.js</b>
 <br /><br />
 Text files (.txt) and other NO needs CDN.
 <br />
