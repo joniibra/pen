@@ -8,7 +8,7 @@ JavaScript, CSS and other needs CDN (staticaly / rawgit / gitcdn / etc).
 <br />
 ○  https://<b>cdn.staticaly.com/gh</b>/  ––  <b>.js</b>
 <br />
-○  http://<b>githack.com</b>/  ––  <b>.js</b>
+○  http://<b>githack.com</b>/  ––  <b>.css</b>
 <br /><br />
 Text files (.txt) and other NO needs CDN.
 <br />
