@@ -1,6 +1,6 @@
 # 『 UPLOAD 』
 
-•  https://cdn.staticaly.com
+•  https://www.staticaly.com
 <br /><br />•  (Optional) https://gitcdn.link or https://gitcdn.xyz
 <br /><br />•  (Optional) http://githack.com
 <br /><br /><br />
