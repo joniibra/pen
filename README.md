@@ -56,7 +56,7 @@ https://<b>cdn.staticaly.com/favicons/</b><code>:favicon_url</code>
 
 
 <br /><br />
-## Full List of Free CDN
+## FULL LIST OF FREE CDN
 <br />
 CDN is the power to accelerate website performance throughout the world. When you only have one Datacenter, CDN makes it available to all countries. Here is the Free CDN list that I have tested.
 <br /><br /><br />
@@ -89,7 +89,7 @@ Loved their support and custom datacenter, their dashboard also cozy.
 Fastly is my favorite, almost all of my work uses their services.
 <br /><br />
 
-#### 8. BunnyCDN (they really fast but only 14 days trial)
+#### 8. BunnyCDN (Really fast but only 14 days trial)
 <br /><br />
 
 #### 9. G-Core Labs (14 days for free)
@@ -98,7 +98,7 @@ Fastly is my favorite, almost all of my work uses their services.
 #### 10. jsDelivr CDN (FREE with Multi CDN for GitHub, NPM and WP Plugins)
 <br /><br />
 
-#### 11. Rawgit (DEPRECATED)
+#### 11. Rawgit (DEPRECATED!)
 <br /><br />
 
 #### 12. raw.githack.com 1 (FREE CDN for GitHub only, CloudFlare network)
@@ -116,9 +116,7 @@ FREE All-in-one platform for automating modern web projects, can host your GitHu
 
 #### 16. Zeit.co 1
 With their Now , you can upload your application and serve with CDN for Free as your application is Open Source.
-<br /><br />
-<br /><br />
-<br /><br />
+<br /><br /><br /><br />
 
 You can choose CDN according to your needs, and hopefully find the best one.
 Good luck!
