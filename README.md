@@ -1,3 +1,6 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H3TS84)
+
+
 # 『 UPLOAD 』
 
 •  https://www.staticaly.com
